@@ -2,6 +2,7 @@
 
 USERNAME="jeroendedauw"
 
+# This part is stolen shamelessly from Antoine Musso
 declare -f gerrit
  gerrit ()
  {
